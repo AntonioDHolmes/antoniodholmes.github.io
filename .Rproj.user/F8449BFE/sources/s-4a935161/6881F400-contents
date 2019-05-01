@@ -1,0 +1,10 @@
+install.packages("blogdown")
+
+library(blogdown)
+
+install_hugo()
+
+build_site()
+
+serve_site()
+

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556717570718.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1005100187",
+    "id" : "6881F400",
+    "lastKnownWriteTime" : 1556722197,
+    "last_content_update" : 1556722197332,
+    "path" : "/cloud/project/data/website_creator.Rmd",
+    "project_path" : "data/website_creator.Rmd",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

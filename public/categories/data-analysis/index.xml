@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analysis on Antonio Holmes</title>
+    <link>/categories/data-analysis/</link>
+    <description>Recent content in data analysis on Antonio Holmes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright Antonio Holmes {year}</copyright>
+    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ATUS Survey Analysis</title>
+      <link>/project/atus-survey-analysis/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/atus-survey-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baltimore Crime Analysis</title>
+      <link>/project/atus-survey-analysis/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/atus-survey-analysis/</guid>
+      <description>The data Violent crime in the United States has fallen over the last two decades. Even though the violent crime rate has been decreasing since 1990, The United States had the second highest prisoner rate, with 693 prisoners per 100,000 of the national population. And Baltimore, Maryland is infamous for its very high crime rates. According to Forbes, Baltimore is the seventh dangerous city in the United States. The violent crime rate is 1417 per 100.</description>
+    </item>
+    
+  </channel>
+</rss>
