@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556823002524.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4108345959",
+    "id" : "1840DA0D",
+    "lastKnownWriteTime" : 1556823536,
+    "last_content_update" : 1556823536742,
+    "path" : "/cloud/project/content/home/skills.md",
+    "project_path" : "content/home/skills.md",
+    "properties" : {
+        "cursorPosition" : "33,0",
+        "scrollLine" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
